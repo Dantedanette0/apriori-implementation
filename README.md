@@ -10,7 +10,7 @@ This project demonstrates the Apriori algorithm using synthetic transactional da
 
 ## Requirements
 - Python 3.7+
-- Libraries: None (uses standard library)
+- Libraries: numpy , iters.
 
 ## Getting Started
 1. Clone the repository:
