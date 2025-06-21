@@ -2,6 +2,8 @@
 
 This repository implements the Apriori algorithm from scratch in Python using synthetic data that I generate in the generate_data.py file.
 
+![assosiative law demonstration](apriori.png)
+
 ## Features
 
 * **Generate synthetic data**: Create customizable sets of transactions for testing.
