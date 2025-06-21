@@ -22,9 +22,9 @@ This repository implements the Apriori algorithm from scratch in Python and demo
 
 Install dependencies:
 
-```bash
+
 pip install -r requirements.txt
-```
+
 
 ## Getting Started
 
