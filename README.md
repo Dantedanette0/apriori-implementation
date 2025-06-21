@@ -34,42 +34,6 @@ pip install -r requirements.txt
    ```
 
 git clone [https://github.com/Dantedanette0/apriori-implementation.git](https://github.com/Dantedanette0/apriori-implementation.git)
-cd apriori-implementation
-
-````
-
-2. **Generate synthetic data** (optional):
-   ```bash
-python generate_data.py --transactions 100 --items 10 --max-items-per-transaction 5 --output data/transactions.csv
-````
-
-This will write a CSV file of transactions to `data/transactions.csv`.
-
-3. **Run Apriori**:
-
-   ```bash
-   ```
-
-python apriori.py --data data/transactions.csv --min-support 5 --min-confidence 0.6
-
-````
-   The script will print frequent itemsets and association rules.
-
-4. **Explore examples**:
-   Open one of the notebooks in the `examples/` folder to see visualizations and deeper explanations.
-
-## Usage Options
-
-```bash
-# View help for Apriori script
-env/bin/python apriori.py --help
-````
-
-Common flags:
-
-* `--min-support`: Minimum support count (integer).
-* `--min-confidence`: Minimum confidence (0–1).
-* `--output`: Path to save rules as JSON.
 
 ## Contributing
 
