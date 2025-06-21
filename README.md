@@ -31,7 +31,7 @@ pip install -r requirements.txt
 1. **Clone the repository**:
 
    ```bash
-   ```
+   
 
 git clone [https://github.com/Dantedanette0/apriori-implementation.git](https://github.com/Dantedanette0/apriori-implementation.git)
 
