@@ -1,6 +1,6 @@
 # Apriori Implementation
 
-This repository implements the Apriori algorithm from scratch in Python using synthetic data that I generate in the generate_data.py file.
+This repository implements the Apriori algorithm from scratch in Python using synthetic data that is generated in the generate_data.py file.
 
 ![assosiative law demonstration](apriori.png)
 
