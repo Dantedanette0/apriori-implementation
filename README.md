@@ -1,6 +1,6 @@
-# Synthetic Apriori Project
+# Apriori Project
 
-This repository implements the Apriori algorithm from scratch in Python and demonstrates its use on synthetic transactional datasets.
+This repository implements the Apriori algorithm from scratch in Python using synthetic data that I generate in the generate_data.py file.
 
 ## Features
 
